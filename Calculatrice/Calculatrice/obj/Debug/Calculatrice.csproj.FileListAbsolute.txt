@@ -1,0 +1,7 @@
+E:\Stage 3 Inf\Desk\calcu-peapp\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+E:\Stage 3 Inf\Desk\calcu-peapp\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+E:\Stage 3 Inf\Desk\calcu-peapp\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+E:\Stage 3 Inf\Desk\calcu-peapp\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.AssemblyReference.cache
+E:\Stage 3 Inf\Desk\calcu-peapp\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+E:\Stage 3 Inf\Desk\calcu-peapp\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+E:\Stage 3 Inf\Desk\calcu-peapp\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
